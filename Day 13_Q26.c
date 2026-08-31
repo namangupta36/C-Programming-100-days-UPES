@@ -1,5 +1,5 @@
 
-// Write a prgram to print numbers from 1 to n.
+// Write a program to print numbers from 1 to n.
 #include <stdio.h>
 int main ()
 {
