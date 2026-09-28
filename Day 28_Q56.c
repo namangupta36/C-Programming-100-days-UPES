@@ -1,4 +1,4 @@
-//Read and print elements o a one-dimensional array.
+//Read and print elements of a one-dimensional array.
 #include <stdio.h>
 int main () {
 int n, i;
